@@ -4,7 +4,7 @@ aiorun==2021.10.1
 colorlog==6.6.0
 dnspython==2.2.1
 meval==2.5
-pymongo==4.0.2
+pymongo==4.3.3
 pyrogram==1.4.8
 python-dotenv==0.19.2
 PyYAML==6.0
